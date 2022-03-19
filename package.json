@@ -1,0 +1,12 @@
+{
+  "name": "discord-qa",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve ."
+  },
+  "author": "Richard Lambert <hello@richardlambert.dev> (https://www.richardlambert.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
